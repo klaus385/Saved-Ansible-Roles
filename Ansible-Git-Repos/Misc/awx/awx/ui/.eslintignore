@@ -1,0 +1,17 @@
+webpack.*.js
+Gruntfile.js
+karma.*.js
+
+etc
+coverage
+grunt-tasks
+node_modules
+po
+static
+templates
+tests
+client/**/*.js
+test
+
+!client/component/**/*.js
+!client/model/**/*.js
